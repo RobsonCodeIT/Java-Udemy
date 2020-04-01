@@ -1,0 +1,14 @@
+==Estrutura Sequencial
+
+==Expressão aritmética
+  -Operadores
+    + Soma
+    - Subtração
+    * Multiplicação
+    / Divisão inteira
+    % Resto da divisão (mod)
+  -Precedência
+    -0º () - resolve o que estiver dentro dos parenteses 
+    -1º *, / , %
+    -2º +, -
+  
