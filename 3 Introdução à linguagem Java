@@ -28,5 +28,15 @@
   -Máquina virtual do Java
   -Executa o Bytecode (Interpretada)
   -JiT - Just in Time
-    --mais rápida que a interpretação
+    --mais rápida que a interpretação    
+    
+==Estrutura de uma aplicação Java
+  -O.O.
+    -classe (class) - Todo código está dentro de uma classe
+    -Pacote (package) - Agrupamento lógico de classe relacionadas
+      --Ex.: Serviços - email, pedidos, etc
+    -Módulo (Java 9+) - Agrupamento lógico de pacotes relacionados
+    -Runtime - Agrupamento físico
+      --Arquivos que resuktam da compilação dos agrupamentos lógicos
+    -Aplicação - Agrupamento de módulos relacionados
     
