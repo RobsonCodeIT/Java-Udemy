@@ -12,3 +12,53 @@
     -1º *, / , %
     -2º +, -
   
+==Variáveis
+  -Variável - espaço de memória que armazena dados durante a execução do programa
+    --sintaxe
+      ---<tipo> <nome> = <valor inicial>;
+      ---int idade = 25;
+  -Uma variável possui:
+    --Nome (identificador)
+    --Tipo
+    --Valor
+    --Endereço
+    
+==Tipos primitivos
+  -Numéricos inteiros
+      TIPO        TAMANHO                 VALORES                                               VALOR PADRÃO
+      byte        8 bits                  -128 a 127                                            0
+      short       16 bits                 -32768 a 32767                                        0
+      int         32 bits                 -2147483648 a 2147483647                              0
+      long        64 bits                 -9223372036854770000 a 9223372036854770000            0L
+  -Ponto flutuante
+      float       32 bits                 -1,4024 ^ -37 a 3,4028 ^ + 38                         0.0f
+      double      64 bits                 -494 ^ -307 a 1.79 ^ + 308                            0.0
+  -Caractere unicode (um)
+      char        16 bits                 '/u0000' a '/uFFFF'                                   '/u0000'
+  -Booleano
+      boolean     1 bit                   {false, true}                                         false
+      
+*Site - unicode-table.com
+*String - cadeia de caracteres
+
+==Nomes de variáveis
+  -Começar com letra ou _ (underscore), não usar números
+  -Não deve possuir espaços
+  -Não usar acentos ou til
+  -Usar padrão "Camel Case"
+  
+==Camel Case
+  -CamelCase
+    --Classe
+      ---MinhaClasse (Classes ou Interfaces)
+    --Atributo
+      ---meuAtributo
+    --Variável
+      ---minhaVariavel
+    --Método
+      ---meuMétodo
+    --Pacotes
+      ---meupacote
+    --Constante
+      ---VALOR_DE_PI
+
