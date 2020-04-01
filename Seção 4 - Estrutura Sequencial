@@ -61,4 +61,12 @@
       ---meupacote
     --Constante
       ---VALOR_DE_PI
+      
+==As 3 Operações básicas
+  -Entrada
+    --Leitura dos dados
+  -Processamento
+    --Cálculos (atricuição do resultado)
+  -Saída
+    --Informa o resultado, escrita de dados
 
