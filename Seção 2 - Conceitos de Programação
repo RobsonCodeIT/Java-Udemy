@@ -1,0 +1,12 @@
+==Linguagem de programação, lexica, sintática
+
+  - O que é
+    --lexica = Ortografia
+      ---main = certo
+      ---maim = errado
+    --sintática = Gramática
+      ---x = 2 + y; = certo
+      ---x = + 2 y; = errado
+    
+  - Conceitos
+    --um mesmo programa, escrito em várias linguagem terá variações lexicas e sintáticas. Embora essencialmente seja o mesmo
