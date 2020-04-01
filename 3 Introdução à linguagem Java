@@ -1,0 +1,25 @@
+==Versões do Java
+  -Java SE (Standard Edition)
+    --Java 11.0.4 (LTS)
+    --Core do java
+    --Desktops e Servidores
+    --Aplicações Web
+  -Histórico
+    --Linguagem de Programação
+      ---Lexica e sintática
+    --Biliotecas (API)
+      ---funcionalidades adicionais
+    --Ambientes de execução
+      --JVM
+    --Gerenciamento de memória
+      ---ponteiros
+    --Portabilidade/segurança
+    --Código >> bytecode >> JVM
+    --Domina o mercado
+    --Android (Agora usa kotlin)
+  -Java ME (Micro Edition)
+    --Embarcados, celulares, IoT
+  -Java EE (Enterprise Edition)
+    --Desenvolvimento empresarial
+    --Servlets (Servidores)
+    --JPA (Persistência) - Mapeamento objeto relacional
