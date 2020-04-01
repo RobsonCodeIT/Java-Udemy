@@ -23,3 +23,10 @@
     --Desenvolvimento empresarial
     --Servlets (Servidores)
     --JPA (Persistência) - Mapeamento objeto relacional
+    
+==JVM - Java Virtual Machine
+  -Máquina virtual do Java
+  -Executa o Bytecode (Interpretada)
+  -JiT - Just in Time
+    --mais rápida que a interpretação
+    
