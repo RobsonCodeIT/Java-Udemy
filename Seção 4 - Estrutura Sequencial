@@ -126,5 +126,14 @@ Locale.setDefault(Locale.US); (Corpo do código)
     --x = 5;
     --y = 2 * x;
     
-    
+==Entrada de dados
+  -leitura
+  -Criar um objeto do tipo Scanner:
+    --declarar o import do Scanner:
+      -- import java.util.Scanner;
+    -- Scanner sc = new Scanner(System.in);
+        ---a variável sc é do tipo Scanner
+        ---deves-e encerrar a variável sc, quando não mais necessária:
+          ---- sc.close();
+            
 
