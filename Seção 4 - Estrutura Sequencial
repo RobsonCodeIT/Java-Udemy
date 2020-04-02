@@ -120,7 +120,11 @@ Locale.setDefault(Locale.US); (Corpo do código)
     --Rounded (three decimal places): 53,235
     --US decimal point: 53.235        
     
-    
+==Processamneto de dados e Casting  
+  -Comando de atribuição
+    --<variável> = <expressão>;
+    --x = 5;
+    --y = 2 * x;
     
     
 
