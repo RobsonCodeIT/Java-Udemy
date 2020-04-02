@@ -135,5 +135,8 @@ Locale.setDefault(Locale.US); (Corpo do código)
         ---a variável sc é do tipo Scanner
         ---deves-e encerrar a variável sc, quando não mais necessária:
           ---- sc.close();
-            
+  -Ler um caractere                      
+    --charAt();
+    --o valor no charAt indica a posição do caractere que se deseja capturar
+  -Ler vários dados e mostrando na mesma linha
 
