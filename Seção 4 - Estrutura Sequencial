@@ -139,4 +139,8 @@ Locale.setDefault(Locale.US); (Corpo do código)
     --charAt();
     --o valor no charAt indica a posição do caractere que se deseja capturar
   -Ler vários dados e mostrando na mesma linha
-
+  -ler até aquebra de linha
+    --nextLine()
+    --a função next() lê apenas uma palavra
+  -quebra de linha pendente    
+    --Qualquer comando de leitura, diferentemente do nextLine(), gera o erro.
