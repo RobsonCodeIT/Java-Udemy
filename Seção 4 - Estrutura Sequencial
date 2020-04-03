@@ -144,3 +144,17 @@ Locale.setDefault(Locale.US); (Corpo do código)
     --a função next() lê apenas uma palavra
   -quebra de linha pendente    
     --Qualquer comando de leitura, diferentemente do nextLine(), gera o erro.
+
+==Funções matemáticas
+  -Função "Math"
+    A = Math.sqrt(x);     -   Variável A recebe a raiz quadrada de x
+    A = Math.pow(x, y);   -   Variável A recebe o resultado de x elevado a y
+    A = Math.abs(x);      -   Variável A recebe o valor absoluto de x
+    
+  -Código com exemplos de aplicação para as funçoes de Raiz (sqrt), Potenciação (pow) e Valor Absoluto (abs)
+  -Inclusão de expressões matemáticas
+    -- x = -b +/- ²√b² - 4ac / 2a
+      ---delta = Math.pow(b, 2) - 4 * a * c;
+      ---x1 = (-b + Math.sqrt(delta)) / (2.0 * a);
+      ---x1 = (-b - Math.sqrt(delta)) / (2.0 * a);
+*java.lang.Math - Maiores informações
