@@ -158,3 +158,6 @@ Locale.setDefault(Locale.US); (Corpo do código)
       ---x1 = (-b + Math.sqrt(delta)) / (2.0 * a);
       ---x1 = (-b - Math.sqrt(delta)) / (2.0 * a);
 *java.lang.Math - Maiores informações
+
+==Aula 27 e 28
+  -Exercício pdf/Youtube
